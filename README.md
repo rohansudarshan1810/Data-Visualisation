@@ -1,11 +1,9 @@
-# 424_Assingment3
-
 # Visulization and Visual Analytics - CS 424
 ## Assignment 3
 
 ## Team VizMasters
 
-Rohan K S  
+Rohan Karle Sudarshan  
 Hemalatha Ningappa Kondakundi  
 Abhiram Anekal Vasudeva  
 Yashwanth Reddy Dasari Reddy  
@@ -495,3 +493,7 @@ Educate drivers about the dangers of speeding and other risky driving behaviors,
 ![Dual-faceted visualization of fatal injuries per police beat and year in Chicago](424_assingment3_graphs/task3_graph3_2.png)
 
 ![Dual-faceted visualization of fatal injuries per police beat and year in Chicago](424_assingment3_graphs/task3_graph3_3.png)
+
+
+#Live site
+Link: https://656d2186c564b1643e3460d2--splendorous-licorice-9f1d05.netlify.app
